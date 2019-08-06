@@ -7,6 +7,7 @@ const jc = style({prop: 'jc', cssProperty: 'justifyContent'})
 const ai = style({prop: 'ai', cssProperty: 'alignItems'})
 const fd = style({prop: 'fd', cssProperty: 'flexDirection'})
 const fw = style({prop: 'fw', cssProperty: 'flexWrap'})
+const display = style({prop: 'display', alias: 'd'})
 
 export const Flex = styled(Box)(
   {display: 'flex'},
