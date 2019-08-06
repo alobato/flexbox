@@ -1,4 +1,4 @@
-import styled, { css } from 'styled-components/macro'
+import styled, { css } from 'styled-components'
 import { style, space, color, border, borderRadius, width, height, opacity, fontFamily, fontSize, fontWeight, flex, order, alignSelf, textAlign, lineHeight, top, right, bottom, left, maxWidth, maxHeight, minWidth, minHeight, position, overflow, zIndex, boxShadow } from 'styled-system'
 
 const lh = style({prop: 'lh', cssProperty: 'lineHeight'})

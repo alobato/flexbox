@@ -1,4 +1,4 @@
-import styled from 'styled-components/macro'
+import styled from 'styled-components'
 import { style, justifyContent, alignItems, flexDirection, flexWrap } from 'styled-system'
 
 import Box from './Box'
